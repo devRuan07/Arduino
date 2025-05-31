@@ -20,7 +20,9 @@
 DHT11 dht11(2);
 rgb_lcd lcd;
 
+//caso necessário
 int kelvin = 273;
+
 int temperatura_celsius = 0;
 int humidity = 0;
 
